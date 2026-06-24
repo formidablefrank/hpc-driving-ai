@@ -1,0 +1,22 @@
+CC0 1.0 Universal
+
+This public-domain dedication applies to bibliographic metadata, extracted citation metadata, reference tables, and similar factual metadata in this repository, where legally possible.
+
+Examples include:
+
+- extracted_references.csv
+- extracted_references.md
+- citation metadata tables
+- lists of titles, authors, years, venues, DOIs, URLs, and identifiers
+
+The repository author waives copyright and related rights in this metadata to the extent legally possible.
+
+Canonical license text:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+Human-readable summary:
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Important note:
+
+CC0 applies only to metadata and factual reference information created or extracted for this repository. It does not apply to original lecture slides, audio recordings, verbatim transcripts, logos, figures, photographs, publisher content, or other third-party copyrighted material.
