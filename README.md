@@ -17,7 +17,7 @@ Taken from the agenda [here](https://chn.tum.de/study-programs/summer-school-on-
 - Summary of lectures and tutorials [here](summary.md)
 - Detailed discussion of lectures and tutorials [here](details.md)
 
-## Repositories
+## Tutorials
 - [FZJ-JSC Tutorial: Efficient Distributed GPU Programming for Exascale](https://github.com/FZJ-JSC/tutorial-multi-gpu)
 - [AMD's HPC Training Examples](https://github.com/amd/HPCTrainingExamples/tree/main)
 - [OpenXLA Tutorial](https://colab.research.google.com/drive/1EXxXmV6zLqZIKh3vPMZ2KaWc4AGzvusW#scrollTo=1ikrh5aYLHm-)
@@ -32,6 +32,6 @@ See the following for more details:
 
 ## Contributing
 
-Fellow participants of this summer school are welcome to contribute. For research collaboration and other inquiries, LinkedIn is the best place to reach me.
+Fellow participants of this summer school are welcome to contribute. For collaboration and other inquiries you can reach me thru LinkedIn as well!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-formidablefrank-0A66C2?style=flat&logo=linksys&logoColor=white)](https://linkedin.com/in/formidablefrank)
