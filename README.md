@@ -1,21 +1,21 @@
 # Summer School on HPC Driving AI
 
 This repository contains all resources  shared during the summer schoool.
-- TUM Campus Heibronn
-- June 16-20 2026
+- TUM Campus Heilbronn, Germany
+- June 16-20, 2026
 
 ## Abstract
-Taken from the agenda [here](https://chn.tum.de/study-programs/summer-school-on-hpc-driving-ai):
+Taken from the [agenda](https://chn.tum.de/study-programs/summer-school-on-hpc-driving-ai):
 >The rapid progress in AI increasingly requires computing resources far beyond conventional workstations. High Performance Computing (HPC) forms the backbone of modern data- and compute-intensive applications. Combining HPC expertise with AI methods opens entirely new possibilities in science and technology, particularly in: **Advanced data analytics, Physical simulations, Stochastic modeling and uncertainty quantification, Data-driven applications**.
 
 >The Summer School brings together leading HPC expertise with innovative approaches in AI, data analytics, physical simulations, and stochastic modeling.
 
 ## Contents
-- Lecture slides [here](https://drive.google.com/drive/folders/1vmV24peEE-Klx17P2sdCD9Zdu65hB-i3?usp=share_link)
-- Recordings [here](https://drive.google.com/drive/folders/1LlaHQGILYNjalDlux-houasya0UAk92q?usp=sharing)
-- Links to references [here](references.md) and [here](references.csv)
+<!--- Lecture slides [here](https://drive.google.com/drive/folders/1vmV24peEE-Klx17P2sdCD9Zdu65hB-i3?usp=share_link)-->
+<!--- Recordings [here](https://drive.google.com/drive/folders/1LlaHQGILYNjalDlux-houasya0UAk92q?usp=sharing)-->
 - Summary of lectures and tutorials [here](summary.md)
 - Detailed discussion of lectures and tutorials [here](details.md)
+- Links to references [here](references.md) and [here](references.csv)
 
 ## Tutorials
 - [FZJ-JSC Tutorial: Efficient Distributed GPU Programming for Exascale](https://github.com/FZJ-JSC/tutorial-multi-gpu)
